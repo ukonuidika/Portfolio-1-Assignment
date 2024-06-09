@@ -101,15 +101,16 @@ body {
     height: 300px;
   }
   
-  .projects-grid-item button {
+  .projects-grid-item a {
     padding: 10px 15px;
     background: #232750;
     color: #fea826;
     border: none;
     border-radius: 10px;
+    text-decoration: none;
   }
   
-  .projects-grid-item button:hover {
+  .projects-grid-item a:hover {
     background: #fea826;
     color: #232750;
   }
