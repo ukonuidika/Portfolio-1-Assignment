@@ -1,8 +1,8 @@
 # Portfolio-1-Assignment
 
-## Title 
+## Title:
 
-## - My Portfolio 
+## My Portfolio 
 
 ## - Overview:
 My portfolio website is a sleek and professional showcase of my skills and projects. It's designed using HTML and CSS, highlighting three key projects I’ve built. The site is user-friendly, easy to navigate, and provides visitors with a clear understanding of your capabilities.
@@ -19,7 +19,8 @@ Throughout the website, the layout is responsive, ensuring a seamless experience
 ## - Overall:
 my portfolio website effectively showcases my skills and projects in a professional and engaging manner, leaving visitors impressed and eager to learn more about what i have to offer.
 
-## Contact:
-## Linkedin:
+## - Contact:
+
+## - Linkedin:
 Ukonu Idika.
 Student at Noroff.
