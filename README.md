@@ -10,7 +10,7 @@ The projects section is the focal point of the website. Here, you feature three 
 
 Throughout the website, the layout is responsive, ensuring a seamless experience across different devices and screen sizes.
 
-## - Overall:
+##  Overall:
 my portfolio website effectively showcases my skills and projects in a professional and engaging manner, leaving visitors impressed and eager to learn more about what i have to offer.
 
 ## Built With
@@ -18,8 +18,8 @@ my portfolio website effectively showcases my skills and projects in a professio
 - [CSS](https://html.com)
   
 ## - Contact:
-[My linkedin page] (https://www.linkedin.com/in/ukonu-idika-367a00254?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)
-[My Twitter page] (https://twitter.com/UIdika61267)
-[My instagram page] (https://www.instagram.com/ukonukaluidika?igsh=MXdyN3FzZzhzMnBybA%3D%3D&utm_source=qr)
+- [My linkedin page] (https://www.linkedin.com/in/ukonu-idika-367a00254?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)
+- [My Twitter page] (https://twitter.com/UIdika61267)
+- [My instagram page] (https://www.instagram.com/ukonukaluidika?igsh=MXdyN3FzZzhzMnBybA%3D%3D&utm_source=qr)
 
 
