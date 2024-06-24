@@ -3,7 +3,7 @@ My portfolio website is a sleek and professional showcase of my skills and proje
 
   [Live site](https://idika-portfolio.netlify.app)
 
-## - Description:
+##  Description:
 My portfolio website opens with a clean and inviting homepage, featuring a brief introduction about myself and my expertise. The design is minimal yet stylish.
 
 Navigation is intuitive, with a simple menu bar at the top guiding visitors to different sections of the site.
