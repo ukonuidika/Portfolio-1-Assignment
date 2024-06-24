@@ -1,6 +1,8 @@
 ## My Portfolio
 My portfolio website is a sleek and professional showcase of my skills and projects. It's designed using HTML and CSS, highlighting three key projects I’ve built. The site is user-friendly, easy to navigate, and provides visitors with a clear understanding of your capabilities.
 
+  [Live site](https://idika-portfolio.netlify.app)
+
 ## - Description:
 My portfolio website opens with a clean and inviting homepage, featuring a brief introduction about myself and my expertise. The design is minimal yet stylish.
 
@@ -17,9 +19,8 @@ my portfolio website effectively showcases my skills and projects in a professio
 - [HTML](https://html.com)
 - [CSS](https://html.com)
   
+
 ##  Contact:
 - [My linkedin page] (https://www.linkedin.com/in/ukonu-idika-367a00254?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)
 - [My Twitter page] (https://twitter.com/UIdika61267)
 - [My instagram page] (https://www.instagram.com/ukonukaluidika?igsh=MXdyN3FzZzhzMnBybA%3D%3D&utm_source=qr)
-
-
