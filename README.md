@@ -1,10 +1,4 @@
 ## My Portfolio
-
-
-
-
-
-
 My portfolio website is a sleek and professional showcase of my skills and projects. It's designed using HTML and CSS, highlighting three key projects I’ve built. The site is user-friendly, easy to navigate, and provides visitors with a clear understanding of your capabilities.
 
 ## - Description:
