@@ -1,4 +1,7 @@
 ## My Portfolio
+
+<img src="./Assets/images/portfolio.png" ait="portfolio" style="width: 80%;">
+
 My portfolio website is a sleek and professional showcase of my skills and projects. It's designed using HTML and CSS, highlighting three key projects I’ve built. The site is user-friendly, easy to navigate, and provides visitors with a clear understanding of your capabilities.
 
   [Live site](https://idika-portfolio.netlify.app)
